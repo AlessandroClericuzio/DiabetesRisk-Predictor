@@ -1,4 +1,4 @@
-🩺 Predizione del Diabete - Tesi di Laurea Triennale
+🩺 DiabetesRisk-Predictor - Tesi di Laurea Triennale
 
 Questo repository contiene il notebook e il codice sviluppato per il mio progetto di Tesi di Laurea Triennale. L'obiettivo dello studio è l'analisi di dati clinici e l'addestramento di diversi modelli di Machine Learning per prevedere l'insorgenza del diabete nei pazienti.
 
