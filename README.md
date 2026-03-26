@@ -71,9 +71,9 @@ In ambito medico, ridurre i **Falsi Negativi** (classificare come "sano" un pazi
   ```bash
    pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn tabul
   ```
-2. Scarica il dataset da Kaggle e inseriscilo nella cartella principale del progetto.
+3. Scarica il dataset da Kaggle e inseriscilo nella cartella principale del progetto.
 
-3. Avvia il notebook tramite Jupyter:
+4. Avvia il notebook tramite Jupyter:
    ```bash
    jupyter notebook Lavoro_Tesi.ipynb
    
