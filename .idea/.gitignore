@@ -7,4 +7,4 @@
 /dataSources/
 /dataSources.local.xml
 # Data files
-/dataset/*.csv
+/data/*.csv
